@@ -59,6 +59,7 @@ This repository serves as a practical record of experimentation with traditional
 - **Techniques**:
   - Preprocessing pipeline with imputation, scaling, and encoding
   - Handling class imbalance
+  - Implementing PCA for anomaly detection via the reconstruction error.
   - Evaluation using confusion matrix and precision-recall tradeoff
 
 ---
